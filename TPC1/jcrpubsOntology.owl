@@ -1,0 +1,185 @@
+@prefix : <http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2> .
+
+<http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#hasAuthor
+:hasAuthor rdf:type owl:ObjectProperty ;
+           owl:inverseOf :hasEditor ,
+                         :hasPub ;
+           rdfs:domain :Pub ;
+           rdfs:range :Author .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#hasEditor
+:hasEditor rdf:type owl:ObjectProperty ;
+           owl:inverseOf :hasPub ;
+           rdfs:domain :Pub ;
+           rdfs:range :Editor .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#hasPub
+:hasPub rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#address
+:address rdf:type owl:DatatypeProperty ;
+         rdfs:domain [ rdf:type owl:Restriction ;
+                       owl:onProperty owl:topObjectProperty ;
+                       owl:someValuesFrom :Pub
+                     ] ;
+         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#booktitle
+:booktitle rdf:type owl:DatatypeProperty ;
+           rdfs:domain [ rdf:type owl:Restriction ;
+                         owl:onProperty owl:topObjectProperty ;
+                         owl:someValuesFrom :Pub
+                       ] ;
+           rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#doi
+:doi rdf:type owl:DatatypeProperty ;
+     rdfs:domain [ rdf:type owl:Restriction ;
+                   owl:onProperty owl:topObjectProperty ;
+                   owl:someValuesFrom :Pub
+                 ] .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#month
+:month rdf:type owl:DatatypeProperty ;
+       rdfs:domain [ rdf:type owl:Restriction ;
+                     owl:onProperty owl:topObjectProperty ;
+                     owl:someValuesFrom :Pub
+                   ] .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#name
+:name rdf:type owl:DatatypeProperty ;
+      rdfs:domain [ rdf:type owl:Restriction ;
+                    owl:onProperty owl:topObjectProperty ;
+                    owl:someValuesFrom :Person
+                  ] ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#title
+:title rdf:type owl:DatatypeProperty ;
+       rdfs:domain [ rdf:type owl:Restriction ;
+                     owl:onProperty owl:topObjectProperty ;
+                     owl:someValuesFrom :Pub
+                   ] ;
+       rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#year
+:year rdf:type owl:DatatypeProperty ;
+      rdfs:domain [ rdf:type owl:Restriction ;
+                    owl:onProperty owl:topObjectProperty ;
+                    owl:someValuesFrom :Pub
+                  ] .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Article
+:Article rdf:type owl:Class ;
+         rdfs:subClassOf :Pub .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Author
+:Author rdf:type owl:Class ;
+        rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Book
+:Book rdf:type owl:Class ;
+      rdfs:subClassOf :Pub .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Editor
+:Editor rdf:type owl:Class ;
+        rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Inbook
+:Inbook rdf:type owl:Class ;
+        rdfs:subClassOf :Pub .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Inproceedings
+:Inproceedings rdf:type owl:Class ;
+               rdfs:subClassOf :Pub .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Masterthesis
+:Masterthesis rdf:type owl:Class ;
+              rdfs:subClassOf :Pub .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Misc
+:Misc rdf:type owl:Class ;
+      rdfs:subClassOf :Pub .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Person
+:Person rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Phdthesis
+:Phdthesis rdf:type owl:Class ;
+           rdfs:subClassOf :Pub .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Proceedings
+:Proceedings rdf:type owl:Class ;
+             rdfs:subClassOf :Pub .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#Pub
+:Pub rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#cisti2017
+:cisti2017 rdf:type owl:NamedIndividual ,
+                    :Inproceedings ;
+           :hasAuthor :jcr ,
+                      :mf ;
+           :address "ISCTE, Lisboa" ;
+           :title "Roda-in..." .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#jcr
+:jcr rdf:type owl:NamedIndividual ,
+              :Person ;
+     :name "José Carlos Ramalho" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/1/untitled-ontology-2#mf
+:mf rdf:type owl:NamedIndividual ,
+             :Person ;
+    :name "Miguel Ferreira" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

@@ -1,0 +1,3885 @@
+:prize1 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2018 ;
+				:overallMotivation “for groundbreaking inventions in the field of laser physics” .
+				:prize1 :hasNominee :960 .
+				:prize1 :hasNominee :961 .
+				:prize1 :hasNominee :962 .
+				
+:prize2 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2018 ;
+				:overallMotivation "" .
+				:prize2 :hasNominee :963 .
+				:prize2 :hasNominee :964 .
+				:prize2 :hasNominee :965 .
+				
+:prize3 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2018 ;
+				:overallMotivation "" .
+				:prize3 :hasNominee :958 .
+				:prize3 :hasNominee :959 .
+				
+:prize4 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2018 ;
+				:overallMotivation "" .
+				:prize4 :hasNominee :966 .
+				:prize4 :hasNominee :967 .
+				
+:prize5 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2018 ;
+				:overallMotivation "" .
+				:prize5 :hasNominee :968 .
+				:prize5 :hasNominee :969 .
+				
+:prize6 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2017 ;
+				:overallMotivation "" .
+				:prize6 :hasNominee :941 .
+				:prize6 :hasNominee :942 .
+				:prize6 :hasNominee :943 .
+				
+:prize7 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2017 ;
+				:overallMotivation "" .
+				:prize7 :hasNominee :944 .
+				:prize7 :hasNominee :945 .
+				:prize7 :hasNominee :946 .
+				
+:prize8 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2017 ;
+				:overallMotivation "" .
+				:prize8 :hasNominee :938 .
+				:prize8 :hasNominee :939 .
+				:prize8 :hasNominee :940 .
+				
+:prize9 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2017 ;
+				:overallMotivation "" .
+				:prize9 :hasNominee :947 .
+				
+:prize10 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2017 ;
+				:overallMotivation "" .
+				:prize10 :hasNominee :948 .
+				
+:prize11 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2017 ;
+				:overallMotivation "" .
+				:prize11 :hasNominee :949 .
+				
+:prize12 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2016 ;
+				:overallMotivation "" .
+				:prize12 :hasNominee :928 .
+				:prize12 :hasNominee :929 .
+				:prize12 :hasNominee :930 .
+				
+:prize13 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2016 ;
+				:overallMotivation "" .
+				:prize13 :hasNominee :931 .
+				:prize13 :hasNominee :932 .
+				:prize13 :hasNominee :933 .
+				
+:prize14 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2016 ;
+				:overallMotivation "" .
+				:prize14 :hasNominee :927 .
+				
+:prize15 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2016 ;
+				:overallMotivation "" .
+				:prize15 :hasNominee :937 .
+				
+:prize16 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2016 ;
+				:overallMotivation "" .
+				:prize16 :hasNominee :934 .
+				
+:prize17 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2016 ;
+				:overallMotivation "" .
+				:prize17 :hasNominee :935 .
+				:prize17 :hasNominee :936 .
+				
+:prize18 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2015 ;
+				:overallMotivation "" .
+				:prize18 :hasNominee :919 .
+				:prize18 :hasNominee :920 .
+				
+:prize19 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2015 ;
+				:overallMotivation "" .
+				:prize19 :hasNominee :921 .
+				:prize19 :hasNominee :922 .
+				:prize19 :hasNominee :923 .
+				
+:prize20 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2015 ;
+				:overallMotivation "" .
+				:prize20 :hasNominee :916 .
+				:prize20 :hasNominee :917 .
+				:prize20 :hasNominee :918 .
+				
+:prize21 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2015 ;
+				:overallMotivation "" .
+				:prize21 :hasNominee :924 .
+				
+:prize22 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2015 ;
+				:overallMotivation "" .
+				:prize22 :hasNominee :925 .
+				
+:prize23 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2015 ;
+				:overallMotivation "" .
+				:prize23 :hasNominee :926 .
+				
+:prize24 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2014 ;
+				:overallMotivation "" .
+				:prize24 :hasNominee :906 .
+				:prize24 :hasNominee :907 .
+				:prize24 :hasNominee :908 .
+				
+:prize25 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2014 ;
+				:overallMotivation "" .
+				:prize25 :hasNominee :909 .
+				:prize25 :hasNominee :910 .
+				:prize25 :hasNominee :911 .
+				
+:prize26 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2014 ;
+				:overallMotivation "" .
+				:prize26 :hasNominee :903 .
+				:prize26 :hasNominee :904 .
+				:prize26 :hasNominee :905 .
+				
+:prize27 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2014 ;
+				:overallMotivation "" .
+				:prize27 :hasNominee :912 .
+				
+:prize28 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2014 ;
+				:overallMotivation "" .
+				:prize28 :hasNominee :913 .
+				:prize28 :hasNominee :914 .
+				
+:prize29 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2014 ;
+				:overallMotivation "" .
+				:prize29 :hasNominee :915 .
+				
+:prize30 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2013 ;
+				:overallMotivation "" .
+				:prize30 :hasNominee :887 .
+				:prize30 :hasNominee :888 .
+				
+:prize31 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2013 ;
+				:overallMotivation "" .
+				:prize31 :hasNominee :889 .
+				:prize31 :hasNominee :890 .
+				:prize31 :hasNominee :891 .
+				
+:prize32 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2013 ;
+				:overallMotivation "" .
+				:prize32 :hasNominee :884 .
+				:prize32 :hasNominee :885 .
+				:prize32 :hasNominee :886 .
+				
+:prize33 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2013 ;
+				:overallMotivation "" .
+				:prize33 :hasNominee :892 .
+				
+:prize34 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2013 ;
+				:overallMotivation "" .
+				:prize34 :hasNominee :893 .
+				
+:prize35 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2013 ;
+				:overallMotivation "" .
+				:prize35 :hasNominee :894 .
+				:prize35 :hasNominee :895 .
+				:prize35 :hasNominee :896 .
+				
+:prize36 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2012 ;
+				:overallMotivation "" .
+				:prize36 :hasNominee :876 .
+				:prize36 :hasNominee :877 .
+				
+:prize37 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2012 ;
+				:overallMotivation "" .
+				:prize37 :hasNominee :878 .
+				:prize37 :hasNominee :879 .
+				
+:prize38 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2012 ;
+				:overallMotivation "" .
+				:prize38 :hasNominee :874 .
+				:prize38 :hasNominee :875 .
+				
+:prize39 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2012 ;
+				:overallMotivation "" .
+				:prize39 :hasNominee :880 .
+				
+:prize40 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2012 ;
+				:overallMotivation "" .
+				:prize40 :hasNominee :881 .
+				
+:prize41 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2012 ;
+				:overallMotivation "" .
+				:prize41 :hasNominee :882 .
+				:prize41 :hasNominee :883 .
+				
+:prize42 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2011 ;
+				:overallMotivation "" .
+				:prize42 :hasNominee :864 .
+				:prize42 :hasNominee :865 .
+				:prize42 :hasNominee :866 .
+				
+:prize43 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2011 ;
+				:overallMotivation "" .
+				:prize43 :hasNominee :867 .
+				
+:prize44 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2011 ;
+				:overallMotivation "" .
+				:prize44 :hasNominee :861 .
+				:prize44 :hasNominee :862 .
+				:prize44 :hasNominee :863 .
+				
+:prize45 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2011 ;
+				:overallMotivation "" .
+				:prize45 :hasNominee :868 .
+				
+:prize46 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2011 ;
+				:overallMotivation "" .
+				:prize46 :hasNominee :869 .
+				:prize46 :hasNominee :870 .
+				:prize46 :hasNominee :871 .
+				
+:prize47 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2011 ;
+				:overallMotivation "" .
+				:prize47 :hasNominee :872 .
+				:prize47 :hasNominee :873 .
+				
+:prize48 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2010 ;
+				:overallMotivation "" .
+				:prize48 :hasNominee :849 .
+				:prize48 :hasNominee :850 .
+				
+:prize49 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2010 ;
+				:overallMotivation "" .
+				:prize49 :hasNominee :851 .
+				:prize49 :hasNominee :852 .
+				:prize49 :hasNominee :853 .
+				
+:prize50 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2010 ;
+				:overallMotivation "" .
+				:prize50 :hasNominee :848 .
+				
+:prize51 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2010 ;
+				:overallMotivation "" .
+				:prize51 :hasNominee :854 .
+				
+:prize52 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2010 ;
+				:overallMotivation "" .
+				:prize52 :hasNominee :855 .
+				
+:prize53 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2010 ;
+				:overallMotivation "" .
+				:prize53 :hasNominee :856 .
+				:prize53 :hasNominee :857 .
+				:prize53 :hasNominee :858 .
+				
+:prize54 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2009 ;
+				:overallMotivation "" .
+				:prize54 :hasNominee :838 .
+				:prize54 :hasNominee :839 .
+				:prize54 :hasNominee :840 .
+				
+:prize55 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2009 ;
+				:overallMotivation "" .
+				:prize55 :hasNominee :841 .
+				:prize55 :hasNominee :842 .
+				:prize55 :hasNominee :843 .
+				
+:prize56 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2009 ;
+				:overallMotivation "" .
+				:prize56 :hasNominee :835 .
+				:prize56 :hasNominee :836 .
+				:prize56 :hasNominee :837 .
+				
+:prize57 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2009 ;
+				:overallMotivation "" .
+				:prize57 :hasNominee :844 .
+				
+:prize58 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2009 ;
+				:overallMotivation "" .
+				:prize58 :hasNominee :845 .
+				
+:prize59 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2009 ;
+				:overallMotivation "" .
+				:prize59 :hasNominee :846 .
+				:prize59 :hasNominee :847 .
+				
+:prize60 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2008 ;
+				:overallMotivation "" .
+				:prize60 :hasNominee :826 .
+				:prize60 :hasNominee :827 .
+				:prize60 :hasNominee :828 .
+				
+:prize61 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2008 ;
+				:overallMotivation "" .
+				:prize61 :hasNominee :829 .
+				:prize61 :hasNominee :830 .
+				:prize61 :hasNominee :831 .
+				
+:prize62 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2008 ;
+				:overallMotivation "" .
+				:prize62 :hasNominee :823 .
+				:prize62 :hasNominee :824 .
+				:prize62 :hasNominee :825 .
+				
+:prize63 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2008 ;
+				:overallMotivation "" .
+				:prize63 :hasNominee :832 .
+				
+:prize64 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2008 ;
+				:overallMotivation "" .
+				:prize64 :hasNominee :833 .
+				
+:prize65 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2008 ;
+				:overallMotivation "" .
+				:prize65 :hasNominee :834 .
+				
+:prize66 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2007 ;
+				:overallMotivation "" .
+				:prize66 :hasNominee :814 .
+				:prize66 :hasNominee :815 .
+				
+:prize67 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2007 ;
+				:overallMotivation "" .
+				:prize67 :hasNominee :816 .
+				
+:prize68 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2007 ;
+				:overallMotivation "" .
+				:prize68 :hasNominee :811 .
+				:prize68 :hasNominee :812 .
+				:prize68 :hasNominee :813 .
+				
+:prize69 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2007 ;
+				:overallMotivation "" .
+				:prize69 :hasNominee :817 .
+				
+:prize70 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2007 ;
+				:overallMotivation "" .
+				:prize70 :hasNominee :818 .
+				:prize70 :hasNominee :819 .
+				
+:prize71 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2007 ;
+				:overallMotivation "" .
+				:prize71 :hasNominee :820 .
+				:prize71 :hasNominee :821 .
+				:prize71 :hasNominee :822 .
+				
+:prize72 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2006 ;
+				:overallMotivation "" .
+				:prize72 :hasNominee :804 .
+				:prize72 :hasNominee :805 .
+				
+:prize73 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2006 ;
+				:overallMotivation "" .
+				:prize73 :hasNominee :806 .
+				
+:prize74 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2006 ;
+				:overallMotivation "" .
+				:prize74 :hasNominee :802 .
+				:prize74 :hasNominee :803 .
+				
+:prize75 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2006 ;
+				:overallMotivation "" .
+				:prize75 :hasNominee :808 .
+				
+:prize76 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2006 ;
+				:overallMotivation "" .
+				:prize76 :hasNominee :809 .
+				:prize76 :hasNominee :810 .
+				
+:prize77 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2006 ;
+				:overallMotivation "" .
+				:prize77 :hasNominee :807 .
+				
+:prize78 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2005 ;
+				:overallMotivation "" .
+				:prize78 :hasNominee :791 .
+				:prize78 :hasNominee :792 .
+				:prize78 :hasNominee :793 .
+				
+:prize79 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2005 ;
+				:overallMotivation "" .
+				:prize79 :hasNominee :794 .
+				:prize79 :hasNominee :795 .
+				:prize79 :hasNominee :796 .
+				
+:prize80 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2005 ;
+				:overallMotivation "" .
+				:prize80 :hasNominee :789 .
+				:prize80 :hasNominee :790 .
+				
+:prize81 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2005 ;
+				:overallMotivation "" .
+				:prize81 :hasNominee :801 .
+				
+:prize82 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2005 ;
+				:overallMotivation "" .
+				:prize82 :hasNominee :797 .
+				:prize82 :hasNominee :798 .
+				
+:prize83 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2005 ;
+				:overallMotivation "" .
+				:prize83 :hasNominee :799 .
+				:prize83 :hasNominee :800 .
+				
+:prize84 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2004 ;
+				:overallMotivation "" .
+				:prize84 :hasNominee :776 .
+				:prize84 :hasNominee :777 .
+				:prize84 :hasNominee :778 .
+				
+:prize85 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2004 ;
+				:overallMotivation "" .
+				:prize85 :hasNominee :779 .
+				:prize85 :hasNominee :780 .
+				:prize85 :hasNominee :781 .
+				
+:prize86 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2004 ;
+				:overallMotivation "" .
+				:prize86 :hasNominee :774 .
+				:prize86 :hasNominee :775 .
+				
+:prize87 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2004 ;
+				:overallMotivation "" .
+				:prize87 :hasNominee :782 .
+				
+:prize88 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2004 ;
+				:overallMotivation "" .
+				:prize88 :hasNominee :783 .
+				
+:prize89 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2004 ;
+				:overallMotivation "" .
+				:prize89 :hasNominee :786 .
+				:prize89 :hasNominee :787 .
+				
+:prize90 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2003 ;
+				:overallMotivation "" .
+				:prize90 :hasNominee :766 .
+				:prize90 :hasNominee :767 .
+				:prize90 :hasNominee :768 .
+				
+:prize91 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2003 ;
+				:overallMotivation "for discoveries concerning channels in cell membranes" .
+				:prize91 :hasNominee :769 .
+				:prize91 :hasNominee :770 .
+				
+:prize92 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2003 ;
+				:overallMotivation "" .
+				:prize92 :hasNominee :764 .
+				:prize92 :hasNominee :765 .
+				
+:prize93 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2003 ;
+				:overallMotivation "" .
+				:prize93 :hasNominee :763 .
+				
+:prize94 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2003 ;
+				:overallMotivation "" .
+				:prize94 :hasNominee :773 .
+				
+:prize95 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2003 ;
+				:overallMotivation "" .
+				:prize95 :hasNominee :771 .
+				:prize95 :hasNominee :772 .
+				
+:prize96 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2002 ;
+				:overallMotivation "" .
+				:prize96 :hasNominee :753 .
+				:prize96 :hasNominee :754 .
+				:prize96 :hasNominee :755 .
+				
+:prize97 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2002 ;
+				:overallMotivation "for the development of methods for identification and structure analyses of biological macromolecules" .
+				:prize97 :hasNominee :756 .
+				:prize97 :hasNominee :757 .
+				:prize97 :hasNominee :758 .
+				
+:prize98 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2002 ;
+				:overallMotivation "" .
+				:prize98 :hasNominee :750 .
+				:prize98 :hasNominee :751 .
+				:prize98 :hasNominee :752 .
+				
+:prize99 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2002 ;
+				:overallMotivation "" .
+				:prize99 :hasNominee :761 .
+				
+:prize100 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2002 ;
+				:overallMotivation "" .
+				:prize100 :hasNominee :762 .
+				
+:prize101 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2002 ;
+				:overallMotivation "" .
+				:prize101 :hasNominee :759 .
+				:prize101 :hasNominee :760 .
+				
+:prize102 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2001 ;
+				:overallMotivation "" .
+				:prize102 :hasNominee :738 .
+				:prize102 :hasNominee :739 .
+				:prize102 :hasNominee :740 .
+				
+:prize103 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2001 ;
+				:overallMotivation "" .
+				:prize103 :hasNominee :741 .
+				:prize103 :hasNominee :742 .
+				:prize103 :hasNominee :743 .
+				
+:prize104 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2001 ;
+				:overallMotivation "" .
+				:prize104 :hasNominee :735 .
+				:prize104 :hasNominee :736 .
+				:prize104 :hasNominee :737 .
+				
+:prize105 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2001 ;
+				:overallMotivation "" .
+				:prize105 :hasNominee :747 .
+				
+:prize106 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2001 ;
+				:overallMotivation "" .
+				:prize106 :hasNominee :748 .
+				:prize106 :hasNominee :749 .
+				
+:prize107 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2001 ;
+				:overallMotivation "" .
+				:prize107 :hasNominee :744 .
+				:prize107 :hasNominee :745 .
+				:prize107 :hasNominee :746 .
+				
+:prize108 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 2000 ;
+				:overallMotivation "for basic work on information and communication technology" .
+				:prize108 :hasNominee :726 .
+				:prize108 :hasNominee :727 .
+				:prize108 :hasNominee :728 .
+				
+:prize109 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 2000 ;
+				:overallMotivation "" .
+				:prize109 :hasNominee :729 .
+				:prize109 :hasNominee :730 .
+				:prize109 :hasNominee :731 .
+				
+:prize110 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 2000 ;
+				:overallMotivation "" .
+				:prize110 :hasNominee :722 .
+				:prize110 :hasNominee :723 .
+				:prize110 :hasNominee :724 .
+				
+:prize111 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 2000 ;
+				:overallMotivation "" .
+				:prize111 :hasNominee :734 .
+				
+:prize112 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 2000 ;
+				:overallMotivation "" .
+				:prize112 :hasNominee :725 .
+				
+:prize113 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 2000 ;
+				:overallMotivation "" .
+				:prize113 :hasNominee :732 .
+				:prize113 :hasNominee :733 .
+				
+:prize114 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1999 ;
+				:overallMotivation "" .
+				:prize114 :hasNominee :158 .
+				:prize114 :hasNominee :159 .
+				
+:prize115 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1999 ;
+				:overallMotivation "" .
+				:prize115 :hasNominee :292 .
+				
+:prize116 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1999 ;
+				:overallMotivation "" .
+				:prize116 :hasNominee :461 .
+				
+:prize117 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1999 ;
+				:overallMotivation "" .
+				:prize117 :hasNominee :676 .
+				
+:prize118 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1999 ;
+				:overallMotivation "" .
+				:prize118 :hasNominee :568 .
+				
+:prize119 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1999 ;
+				:overallMotivation "" .
+				:prize119 :hasNominee :720 .
+				
+:prize120 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1998 ;
+				:overallMotivation "" .
+				:prize120 :hasNominee :155 .
+				:prize120 :hasNominee :156 .
+				:prize120 :hasNominee :157 .
+				
+:prize121 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1998 ;
+				:overallMotivation "" .
+				:prize121 :hasNominee :290 .
+				:prize121 :hasNominee :291 .
+				
+:prize122 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1998 ;
+				:overallMotivation "" .
+				:prize122 :hasNominee :458 .
+				:prize122 :hasNominee :459 .
+				:prize122 :hasNominee :460 .
+				
+:prize123 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1998 ;
+				:overallMotivation "" .
+				:prize123 :hasNominee :675 .
+				
+:prize124 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1998 ;
+				:overallMotivation "" .
+				:prize124 :hasNominee :566 .
+				:prize124 :hasNominee :567 .
+				
+:prize125 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1998 ;
+				:overallMotivation "" .
+				:prize125 :hasNominee :719 .
+				
+:prize126 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1997 ;
+				:overallMotivation "" .
+				:prize126 :hasNominee :152 .
+				:prize126 :hasNominee :153 .
+				:prize126 :hasNominee :154 .
+				
+:prize127 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1997 ;
+				:overallMotivation "" .
+				:prize127 :hasNominee :287 .
+				:prize127 :hasNominee :288 .
+				:prize127 :hasNominee :289 .
+				
+:prize128 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1997 ;
+				:overallMotivation "" .
+				:prize128 :hasNominee :457 .
+				
+:prize129 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1997 ;
+				:overallMotivation "" .
+				:prize129 :hasNominee :674 .
+				
+:prize130 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1997 ;
+				:overallMotivation "" .
+				:prize130 :hasNominee :564 .
+				:prize130 :hasNominee :565 .
+				
+:prize131 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1997 ;
+				:overallMotivation "" .
+				:prize131 :hasNominee :717 .
+				:prize131 :hasNominee :718 .
+				
+:prize132 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1996 ;
+				:overallMotivation "" .
+				:prize132 :hasNominee :149 .
+				:prize132 :hasNominee :150 .
+				:prize132 :hasNominee :151 .
+				
+:prize133 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1996 ;
+				:overallMotivation "" .
+				:prize133 :hasNominee :284 .
+				:prize133 :hasNominee :285 .
+				:prize133 :hasNominee :286 .
+				
+:prize134 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1996 ;
+				:overallMotivation "" .
+				:prize134 :hasNominee :455 .
+				:prize134 :hasNominee :456 .
+				
+:prize135 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1996 ;
+				:overallMotivation "" .
+				:prize135 :hasNominee :673 .
+				
+:prize136 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1996 ;
+				:overallMotivation "" .
+				:prize136 :hasNominee :562 .
+				:prize136 :hasNominee :563 .
+				
+:prize137 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1996 ;
+				:overallMotivation "" .
+				:prize137 :hasNominee :715 .
+				:prize137 :hasNominee :716 .
+				
+:prize138 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1995 ;
+				:overallMotivation "for pioneering experimental contributions to lepton physics" .
+				:prize138 :hasNominee :147 .
+				:prize138 :hasNominee :148 .
+				
+:prize139 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1995 ;
+				:overallMotivation "" .
+				:prize139 :hasNominee :281 .
+				:prize139 :hasNominee :282 .
+				:prize139 :hasNominee :283 .
+				
+:prize140 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1995 ;
+				:overallMotivation "" .
+				:prize140 :hasNominee :452 .
+				:prize140 :hasNominee :453 .
+				:prize140 :hasNominee :454 .
+				
+:prize141 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1995 ;
+				:overallMotivation "" .
+				:prize141 :hasNominee :672 .
+				
+:prize142 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1995 ;
+				:overallMotivation "" .
+				:prize142 :hasNominee :560 .
+				:prize142 :hasNominee :561 .
+				
+:prize143 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1995 ;
+				:overallMotivation "" .
+				:prize143 :hasNominee :714 .
+				
+:prize144 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1994 ;
+				:overallMotivation "for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter" .
+				:prize144 :hasNominee :145 .
+				:prize144 :hasNominee :146 .
+				
+:prize145 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1994 ;
+				:overallMotivation "" .
+				:prize145 :hasNominee :280 .
+				
+:prize146 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1994 ;
+				:overallMotivation "" .
+				:prize146 :hasNominee :450 .
+				:prize146 :hasNominee :451 .
+				
+:prize147 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1994 ;
+				:overallMotivation "" .
+				:prize147 :hasNominee :671 .
+				
+:prize148 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1994 ;
+				:overallMotivation "" .
+				:prize148 :hasNominee :557 .
+				:prize148 :hasNominee :558 .
+				:prize148 :hasNominee :559 .
+				
+:prize149 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1994 ;
+				:overallMotivation "" .
+				:prize149 :hasNominee :711 .
+				:prize149 :hasNominee :712 .
+				:prize149 :hasNominee :713 .
+				
+:prize150 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1993 ;
+				:overallMotivation "" .
+				:prize150 :hasNominee :143 .
+				:prize150 :hasNominee :144 .
+				
+:prize151 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1993 ;
+				:overallMotivation "for contributions to the developments of methods within DNA-based chemistry" .
+				:prize151 :hasNominee :278 .
+				:prize151 :hasNominee :279 .
+				
+:prize152 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1993 ;
+				:overallMotivation "" .
+				:prize152 :hasNominee :448 .
+				:prize152 :hasNominee :449 .
+				
+:prize153 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1993 ;
+				:overallMotivation "" .
+				:prize153 :hasNominee :670 .
+				
+:prize154 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1993 ;
+				:overallMotivation "" .
+				:prize154 :hasNominee :555 .
+				:prize154 :hasNominee :556 .
+				
+:prize155 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1993 ;
+				:overallMotivation "" .
+				:prize155 :hasNominee :709 .
+				:prize155 :hasNominee :710 .
+				
+:prize156 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1992 ;
+				:overallMotivation "" .
+				:prize156 :hasNominee :142 .
+				
+:prize157 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1992 ;
+				:overallMotivation "" .
+				:prize157 :hasNominee :277 .
+				
+:prize158 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1992 ;
+				:overallMotivation "" .
+				:prize158 :hasNominee :446 .
+				:prize158 :hasNominee :447 .
+				
+:prize159 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1992 ;
+				:overallMotivation "" .
+				:prize159 :hasNominee :669 .
+				
+:prize160 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1992 ;
+				:overallMotivation "" .
+				:prize160 :hasNominee :554 .
+				
+:prize161 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1992 ;
+				:overallMotivation "" .
+				:prize161 :hasNominee :708 .
+				
+:prize162 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1991 ;
+				:overallMotivation "" .
+				:prize162 :hasNominee :141 .
+				
+:prize163 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1991 ;
+				:overallMotivation "" .
+				:prize163 :hasNominee :276 .
+				
+:prize164 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1991 ;
+				:overallMotivation "" .
+				:prize164 :hasNominee :444 .
+				:prize164 :hasNominee :445 .
+				
+:prize165 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1991 ;
+				:overallMotivation "" .
+				:prize165 :hasNominee :668 .
+				
+:prize166 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1991 ;
+				:overallMotivation "" .
+				:prize166 :hasNominee :553 .
+				
+:prize167 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1991 ;
+				:overallMotivation "" .
+				:prize167 :hasNominee :707 .
+				
+:prize168 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1990 ;
+				:overallMotivation "" .
+				:prize168 :hasNominee :138 .
+				:prize168 :hasNominee :139 .
+				:prize168 :hasNominee :140 .
+				
+:prize169 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1990 ;
+				:overallMotivation "" .
+				:prize169 :hasNominee :275 .
+				
+:prize170 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1990 ;
+				:overallMotivation "" .
+				:prize170 :hasNominee :442 .
+				:prize170 :hasNominee :443 .
+				
+:prize171 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1990 ;
+				:overallMotivation "" .
+				:prize171 :hasNominee :667 .
+				
+:prize172 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1990 ;
+				:overallMotivation "" .
+				:prize172 :hasNominee :552 .
+				
+:prize173 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1990 ;
+				:overallMotivation "" .
+				:prize173 :hasNominee :704 .
+				:prize173 :hasNominee :705 .
+				:prize173 :hasNominee :706 .
+				
+:prize174 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1989 ;
+				:overallMotivation "" .
+				:prize174 :hasNominee :135 .
+				:prize174 :hasNominee :136 .
+				:prize174 :hasNominee :137 .
+				
+:prize175 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1989 ;
+				:overallMotivation "" .
+				:prize175 :hasNominee :273 .
+				:prize175 :hasNominee :274 .
+				
+:prize176 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1989 ;
+				:overallMotivation "" .
+				:prize176 :hasNominee :440 .
+				:prize176 :hasNominee :441 .
+				
+:prize177 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1989 ;
+				:overallMotivation "" .
+				:prize177 :hasNominee :666 .
+				
+:prize178 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1989 ;
+				:overallMotivation "" .
+				:prize178 :hasNominee :551 .
+				
+:prize179 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1989 ;
+				:overallMotivation "" .
+				:prize179 :hasNominee :703 .
+				
+:prize180 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1988 ;
+				:overallMotivation "" .
+				:prize180 :hasNominee :132 .
+				:prize180 :hasNominee :133 .
+				:prize180 :hasNominee :134 .
+				
+:prize181 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1988 ;
+				:overallMotivation "" .
+				:prize181 :hasNominee :270 .
+				:prize181 :hasNominee :271 .
+				:prize181 :hasNominee :272 .
+				
+:prize182 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1988 ;
+				:overallMotivation "" .
+				:prize182 :hasNominee :437 .
+				:prize182 :hasNominee :438 .
+				:prize182 :hasNominee :439 .
+				
+:prize183 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1988 ;
+				:overallMotivation "" .
+				:prize183 :hasNominee :665 .
+				
+:prize184 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1988 ;
+				:overallMotivation "" .
+				:prize184 :hasNominee :550 .
+				
+:prize185 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1988 ;
+				:overallMotivation "" .
+				:prize185 :hasNominee :702 .
+				
+:prize186 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1987 ;
+				:overallMotivation "" .
+				:prize186 :hasNominee :130 .
+				:prize186 :hasNominee :131 .
+				
+:prize187 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1987 ;
+				:overallMotivation "" .
+				:prize187 :hasNominee :267 .
+				:prize187 :hasNominee :268 .
+				:prize187 :hasNominee :269 .
+				
+:prize188 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1987 ;
+				:overallMotivation "" .
+				:prize188 :hasNominee :436 .
+				
+:prize189 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1987 ;
+				:overallMotivation "" .
+				:prize189 :hasNominee :664 .
+				
+:prize190 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1987 ;
+				:overallMotivation "" .
+				:prize190 :hasNominee :549 .
+				
+:prize191 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1987 ;
+				:overallMotivation "" .
+				:prize191 :hasNominee :701 .
+				
+:prize192 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1986 ;
+				:overallMotivation "" .
+				:prize192 :hasNominee :127 .
+				:prize192 :hasNominee :128 .
+				:prize192 :hasNominee :129 .
+				
+:prize193 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1986 ;
+				:overallMotivation "" .
+				:prize193 :hasNominee :264 .
+				:prize193 :hasNominee :265 .
+				:prize193 :hasNominee :266 .
+				
+:prize194 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1986 ;
+				:overallMotivation "" .
+				:prize194 :hasNominee :434 .
+				:prize194 :hasNominee :435 .
+				
+:prize195 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1986 ;
+				:overallMotivation "" .
+				:prize195 :hasNominee :663 .
+				
+:prize196 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1986 ;
+				:overallMotivation "" .
+				:prize196 :hasNominee :548 .
+				
+:prize197 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1986 ;
+				:overallMotivation "" .
+				:prize197 :hasNominee :700 .
+				
+:prize198 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1985 ;
+				:overallMotivation "" .
+				:prize198 :hasNominee :126 .
+				
+:prize199 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1985 ;
+				:overallMotivation "" .
+				:prize199 :hasNominee :262 .
+				:prize199 :hasNominee :263 .
+				
+:prize200 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1985 ;
+				:overallMotivation "" .
+				:prize200 :hasNominee :432 .
+				:prize200 :hasNominee :433 .
+				
+:prize201 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1985 ;
+				:overallMotivation "" .
+				:prize201 :hasNominee :662 .
+				
+:prize202 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1985 ;
+				:overallMotivation "" .
+				:prize202 :hasNominee :547 .
+				
+:prize203 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1985 ;
+				:overallMotivation "" .
+				:prize203 :hasNominee :699 .
+				
+:prize204 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1984 ;
+				:overallMotivation "" .
+				:prize204 :hasNominee :124 .
+				:prize204 :hasNominee :125 .
+				
+:prize205 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1984 ;
+				:overallMotivation "" .
+				:prize205 :hasNominee :261 .
+				
+:prize206 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1984 ;
+				:overallMotivation "" .
+				:prize206 :hasNominee :429 .
+				:prize206 :hasNominee :430 .
+				:prize206 :hasNominee :431 .
+				
+:prize207 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1984 ;
+				:overallMotivation "" .
+				:prize207 :hasNominee :661 .
+				
+:prize208 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1984 ;
+				:overallMotivation "" .
+				:prize208 :hasNominee :546 .
+				
+:prize209 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1984 ;
+				:overallMotivation "" .
+				:prize209 :hasNominee :698 .
+				
+:prize210 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1983 ;
+				:overallMotivation "" .
+				:prize210 :hasNominee :122 .
+				:prize210 :hasNominee :123 .
+				
+:prize211 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1983 ;
+				:overallMotivation "" .
+				:prize211 :hasNominee :260 .
+				
+:prize212 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1983 ;
+				:overallMotivation "" .
+				:prize212 :hasNominee :428 .
+				
+:prize213 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1983 ;
+				:overallMotivation "" .
+				:prize213 :hasNominee :660 .
+				
+:prize214 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1983 ;
+				:overallMotivation "" .
+				:prize214 :hasNominee :545 .
+				
+:prize215 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1983 ;
+				:overallMotivation "" .
+				:prize215 :hasNominee :697 .
+				
+:prize216 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1982 ;
+				:overallMotivation "" .
+				:prize216 :hasNominee :121 .
+				
+:prize217 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1982 ;
+				:overallMotivation "" .
+				:prize217 :hasNominee :259 .
+				
+:prize218 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1982 ;
+				:overallMotivation "" .
+				:prize218 :hasNominee :425 .
+				:prize218 :hasNominee :426 .
+				:prize218 :hasNominee :427 .
+				
+:prize219 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1982 ;
+				:overallMotivation "" .
+				:prize219 :hasNominee :659 .
+				
+:prize220 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1982 ;
+				:overallMotivation "" .
+				:prize220 :hasNominee :543 .
+				:prize220 :hasNominee :544 .
+				
+:prize221 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1982 ;
+				:overallMotivation "" .
+				:prize221 :hasNominee :696 .
+				
+:prize222 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1981 ;
+				:overallMotivation "" .
+				:prize222 :hasNominee :118 .
+				:prize222 :hasNominee :119 .
+				:prize222 :hasNominee :120 .
+				
+:prize223 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1981 ;
+				:overallMotivation "" .
+				:prize223 :hasNominee :257 .
+				:prize223 :hasNominee :258 .
+				
+:prize224 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1981 ;
+				:overallMotivation "" .
+				:prize224 :hasNominee :422 .
+				:prize224 :hasNominee :423 .
+				:prize224 :hasNominee :424 .
+				
+:prize225 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1981 ;
+				:overallMotivation "" .
+				:prize225 :hasNominee :658 .
+				
+:prize226 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1981 ;
+				:overallMotivation "" .
+				:prize226 :hasNominee :515 .
+				
+:prize227 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1981 ;
+				:overallMotivation "" .
+				:prize227 :hasNominee :695 .
+				
+:prize228 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1980 ;
+				:overallMotivation "" .
+				:prize228 :hasNominee :116 .
+				:prize228 :hasNominee :117 .
+				
+:prize229 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1980 ;
+				:overallMotivation "" .
+				:prize229 :hasNominee :254 .
+				:prize229 :hasNominee :255 .
+				:prize229 :hasNominee :222 .
+				
+:prize230 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1980 ;
+				:overallMotivation "" .
+				:prize230 :hasNominee :419 .
+				:prize230 :hasNominee :420 .
+				:prize230 :hasNominee :421 .
+				
+:prize231 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1980 ;
+				:overallMotivation "" .
+				:prize231 :hasNominee :657 .
+				
+:prize232 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1980 ;
+				:overallMotivation "" .
+				:prize232 :hasNominee :541 .
+				
+:prize233 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1980 ;
+				:overallMotivation "" .
+				:prize233 :hasNominee :694 .
+				
+:prize234 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1979 ;
+				:overallMotivation "" .
+				:prize234 :hasNominee :113 .
+				:prize234 :hasNominee :114 .
+				:prize234 :hasNominee :115 .
+				
+:prize235 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1979 ;
+				:overallMotivation "" .
+				:prize235 :hasNominee :252 .
+				:prize235 :hasNominee :253 .
+				
+:prize236 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1979 ;
+				:overallMotivation "" .
+				:prize236 :hasNominee :417 .
+				:prize236 :hasNominee :418 .
+				
+:prize237 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1979 ;
+				:overallMotivation "" .
+				:prize237 :hasNominee :655 .
+				
+:prize238 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1979 ;
+				:overallMotivation "" .
+				:prize238 :hasNominee :540 .
+				
+:prize239 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1979 ;
+				:overallMotivation "" .
+				:prize239 :hasNominee :692 .
+				:prize239 :hasNominee :693 .
+				
+:prize240 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1978 ;
+				:overallMotivation "" .
+				:prize240 :hasNominee :110 .
+				:prize240 :hasNominee :111 .
+				:prize240 :hasNominee :112 .
+				
+:prize241 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1978 ;
+				:overallMotivation "" .
+				:prize241 :hasNominee :251 .
+				
+:prize242 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1978 ;
+				:overallMotivation "" .
+				:prize242 :hasNominee :414 .
+				:prize242 :hasNominee :415 .
+				:prize242 :hasNominee :416 .
+				
+:prize243 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1978 ;
+				:overallMotivation "" .
+				:prize243 :hasNominee :654 .
+				
+:prize244 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1978 ;
+				:overallMotivation "" .
+				:prize244 :hasNominee :538 .
+				:prize244 :hasNominee :539 .
+				
+:prize245 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1978 ;
+				:overallMotivation "" .
+				:prize245 :hasNominee :691 .
+				
+:prize246 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1977 ;
+				:overallMotivation "" .
+				:prize246 :hasNominee :107 .
+				:prize246 :hasNominee :108 .
+				:prize246 :hasNominee :109 .
+				
+:prize247 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1977 ;
+				:overallMotivation "" .
+				:prize247 :hasNominee :250 .
+				
+:prize248 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1977 ;
+				:overallMotivation "" .
+				:prize248 :hasNominee :411 .
+				:prize248 :hasNominee :412 .
+				:prize248 :hasNominee :413 .
+				
+:prize249 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1977 ;
+				:overallMotivation "" .
+				:prize249 :hasNominee :653 .
+				
+:prize250 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1977 ;
+				:overallMotivation "" .
+				:prize250 :hasNominee :537 .
+				
+:prize251 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1977 ;
+				:overallMotivation "" .
+				:prize251 :hasNominee :689 .
+				:prize251 :hasNominee :690 .
+				
+:prize252 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1976 ;
+				:overallMotivation "" .
+				:prize252 :hasNominee :105 .
+				:prize252 :hasNominee :106 .
+				
+:prize253 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1976 ;
+				:overallMotivation "" .
+				:prize253 :hasNominee :249 .
+				
+:prize254 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1976 ;
+				:overallMotivation "" .
+				:prize254 :hasNominee :409 .
+				:prize254 :hasNominee :410 .
+				
+:prize255 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1976 ;
+				:overallMotivation "" .
+				:prize255 :hasNominee :652 .
+				
+:prize256 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1976 ;
+				:overallMotivation "" .
+				:prize256 :hasNominee :535 .
+				:prize256 :hasNominee :536 .
+				
+:prize257 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1976 ;
+				:overallMotivation "" .
+				:prize257 :hasNominee :688 .
+				
+:prize258 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1975 ;
+				:overallMotivation "" .
+				:prize258 :hasNominee :102 .
+				:prize258 :hasNominee :103 .
+				:prize258 :hasNominee :104 .
+				
+:prize259 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1975 ;
+				:overallMotivation "" .
+				:prize259 :hasNominee :247 .
+				:prize259 :hasNominee :248 .
+				
+:prize260 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1975 ;
+				:overallMotivation "" .
+				:prize260 :hasNominee :406 .
+				:prize260 :hasNominee :407 .
+				:prize260 :hasNominee :408 .
+				
+:prize261 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1975 ;
+				:overallMotivation "" .
+				:prize261 :hasNominee :651 .
+				
+:prize262 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1975 ;
+				:overallMotivation "" .
+				:prize262 :hasNominee :534 .
+				
+:prize263 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1975 ;
+				:overallMotivation "" .
+				:prize263 :hasNominee :686 .
+				:prize263 :hasNominee :687 .
+				
+:prize264 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1974 ;
+				:overallMotivation "" .
+				:prize264 :hasNominee :100 .
+				:prize264 :hasNominee :101 .
+				
+:prize265 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1974 ;
+				:overallMotivation "" .
+				:prize265 :hasNominee :246 .
+				
+:prize266 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1974 ;
+				:overallMotivation "" .
+				:prize266 :hasNominee :403 .
+				:prize266 :hasNominee :404 .
+				:prize266 :hasNominee :405 .
+				
+:prize267 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1974 ;
+				:overallMotivation "" .
+				:prize267 :hasNominee :649 .
+				:prize267 :hasNominee :650 .
+				
+:prize268 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1974 ;
+				:overallMotivation "" .
+				:prize268 :hasNominee :532 .
+				:prize268 :hasNominee :533 .
+				
+:prize269 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1974 ;
+				:overallMotivation "" .
+				:prize269 :hasNominee :684 .
+				:prize269 :hasNominee :685 .
+				
+:prize270 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1973 ;
+				:overallMotivation "" .
+				:prize270 :hasNominee :97 .
+				:prize270 :hasNominee :98 .
+				:prize270 :hasNominee :99 .
+				
+:prize271 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1973 ;
+				:overallMotivation "" .
+				:prize271 :hasNominee :244 .
+				:prize271 :hasNominee :245 .
+				
+:prize272 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1973 ;
+				:overallMotivation "" .
+				:prize272 :hasNominee :400 .
+				:prize272 :hasNominee :401 .
+				:prize272 :hasNominee :402 .
+				
+:prize273 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1973 ;
+				:overallMotivation "" .
+				:prize273 :hasNominee :648 .
+				
+:prize274 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1973 ;
+				:overallMotivation "" .
+				:prize274 :hasNominee :530 .
+				:prize274 :hasNominee :531 .
+				
+:prize275 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1973 ;
+				:overallMotivation "" .
+				:prize275 :hasNominee :683 .
+				
+:prize276 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1972 ;
+				:overallMotivation "" .
+				:prize276 :hasNominee :66 .
+				:prize276 :hasNominee :95 .
+				:prize276 :hasNominee :96 .
+				
+:prize277 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1972 ;
+				:overallMotivation "" .
+				:prize277 :hasNominee :241 .
+				:prize277 :hasNominee :242 .
+				:prize277 :hasNominee :243 .
+				
+:prize278 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1972 ;
+				:overallMotivation "" .
+				:prize278 :hasNominee :398 .
+				:prize278 :hasNominee :399 .
+				
+:prize279 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1972 ;
+				:overallMotivation "" .
+				:prize279 :hasNominee :647 .
+				
+:prize280 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1972 ;
+				:overallMotivation "" .
+				:prize280 :hasNominee :681 .
+				:prize280 :hasNominee :682 .
+				
+:prize281 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1971 ;
+				:overallMotivation "" .
+				:prize281 :hasNominee :93 .
+				
+:prize282 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1971 ;
+				:overallMotivation "" .
+				:prize282 :hasNominee :240 .
+				
+:prize283 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1971 ;
+				:overallMotivation "" .
+				:prize283 :hasNominee :397 .
+				
+:prize284 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1971 ;
+				:overallMotivation "" .
+				:prize284 :hasNominee :645 .
+				
+:prize285 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1971 ;
+				:overallMotivation "" .
+				:prize285 :hasNominee :529 .
+				
+:prize286 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1971 ;
+				:overallMotivation "" .
+				:prize286 :hasNominee :680 .
+				
+:prize287 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1970 ;
+				:overallMotivation "" .
+				:prize287 :hasNominee :91 .
+				:prize287 :hasNominee :92 .
+				
+:prize288 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1970 ;
+				:overallMotivation "" .
+				:prize288 :hasNominee :239 .
+				
+:prize289 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1970 ;
+				:overallMotivation "" .
+				:prize289 :hasNominee :394 .
+				:prize289 :hasNominee :395 .
+				:prize289 :hasNominee :396 .
+				
+:prize290 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1970 ;
+				:overallMotivation "" .
+				:prize290 :hasNominee :644 .
+				
+:prize291 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1970 ;
+				:overallMotivation "" .
+				:prize291 :hasNominee :528 .
+				
+:prize292 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1970 ;
+				:overallMotivation "" .
+				:prize292 :hasNominee :679 .
+				
+:prize293 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1969 ;
+				:overallMotivation "" .
+				:prize293 :hasNominee :90 .
+				
+:prize294 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1969 ;
+				:overallMotivation "" .
+				:prize294 :hasNominee :237 .
+				:prize294 :hasNominee :238 .
+				
+:prize295 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1969 ;
+				:overallMotivation "" .
+				:prize295 :hasNominee :391 .
+				:prize295 :hasNominee :392 .
+				:prize295 :hasNominee :393 .
+				
+:prize296 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1969 ;
+				:overallMotivation "" .
+				:prize296 :hasNominee :643 .
+				
+:prize297 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1969 ;
+				:overallMotivation "" .
+				:prize297 :hasNominee :527 .
+				
+:prize298 rdf:type owl:NamedIndividual ,
+					:Economics ;
+				:year 1969 ;
+				:overallMotivation "" .
+				:prize298 :hasNominee :677 .
+				:prize298 :hasNominee :678 .
+				
+:prize299 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1968 ;
+				:overallMotivation "" .
+				:prize299 :hasNominee :89 .
+				
+:prize300 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1968 ;
+				:overallMotivation "" .
+				:prize300 :hasNominee :236 .
+				
+:prize301 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1968 ;
+				:overallMotivation "" .
+				:prize301 :hasNominee :388 .
+				:prize301 :hasNominee :389 .
+				:prize301 :hasNominee :390 .
+				
+:prize302 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1968 ;
+				:overallMotivation "" .
+				:prize302 :hasNominee :642 .
+				
+:prize303 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1968 ;
+				:overallMotivation "" .
+				:prize303 :hasNominee :526 .
+				
+:prize304 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1967 ;
+				:overallMotivation "" .
+				:prize304 :hasNominee :88 .
+				
+:prize305 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1967 ;
+				:overallMotivation "" .
+				:prize305 :hasNominee :233 .
+				:prize305 :hasNominee :234 .
+				:prize305 :hasNominee :235 .
+				
+:prize306 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1967 ;
+				:overallMotivation "" .
+				:prize306 :hasNominee :385 .
+				:prize306 :hasNominee :386 .
+				:prize306 :hasNominee :387 .
+				
+:prize307 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1967 ;
+				:overallMotivation "" .
+				:prize307 :hasNominee :641 .
+				
+:prize308 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1966 ;
+				:overallMotivation "" .
+				:prize308 :hasNominee :87 .
+				
+:prize309 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1966 ;
+				:overallMotivation "" .
+				:prize309 :hasNominee :232 .
+				
+:prize310 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1966 ;
+				:overallMotivation "" .
+				:prize310 :hasNominee :383 .
+				:prize310 :hasNominee :384 .
+				
+:prize311 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1966 ;
+				:overallMotivation "" .
+				:prize311 :hasNominee :639 .
+				:prize311 :hasNominee :640 .
+				
+:prize312 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1965 ;
+				:overallMotivation "" .
+				:prize312 :hasNominee :84 .
+				:prize312 :hasNominee :85 .
+				:prize312 :hasNominee :86 .
+				
+:prize313 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1965 ;
+				:overallMotivation "" .
+				:prize313 :hasNominee :231 .
+				
+:prize314 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1965 ;
+				:overallMotivation "" .
+				:prize314 :hasNominee :380 .
+				:prize314 :hasNominee :381 .
+				:prize314 :hasNominee :382 .
+				
+:prize315 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1965 ;
+				:overallMotivation "" .
+				:prize315 :hasNominee :638 .
+				
+:prize316 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1965 ;
+				:overallMotivation "" .
+				:prize316 :hasNominee :525 .
+				
+:prize317 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1964 ;
+				:overallMotivation "" .
+				:prize317 :hasNominee :81 .
+				:prize317 :hasNominee :82 .
+				:prize317 :hasNominee :83 .
+				
+:prize318 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1964 ;
+				:overallMotivation "" .
+				:prize318 :hasNominee :230 .
+				
+:prize319 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1964 ;
+				:overallMotivation "" .
+				:prize319 :hasNominee :378 .
+				:prize319 :hasNominee :379 .
+				
+:prize320 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1964 ;
+				:overallMotivation "" .
+				:prize320 :hasNominee :637 .
+				
+:prize321 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1964 ;
+				:overallMotivation "" .
+				:prize321 :hasNominee :524 .
+				
+:prize322 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1963 ;
+				:overallMotivation "" .
+				:prize322 :hasNominee :78 .
+				:prize322 :hasNominee :79 .
+				:prize322 :hasNominee :80 .
+				
+:prize323 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1963 ;
+				:overallMotivation "" .
+				:prize323 :hasNominee :228 .
+				:prize323 :hasNominee :229 .
+				
+:prize324 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1963 ;
+				:overallMotivation "" .
+				:prize324 :hasNominee :375 .
+				:prize324 :hasNominee :376 .
+				:prize324 :hasNominee :377 .
+				
+:prize325 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1963 ;
+				:overallMotivation "" .
+				:prize325 :hasNominee :635 .
+				
+:prize326 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1963 ;
+				:overallMotivation "" .
+				:prize326 :hasNominee :482 .
+				:prize326 :hasNominee :523 .
+				
+:prize327 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1962 ;
+				:overallMotivation "" .
+				:prize327 :hasNominee :77 .
+				
+:prize328 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1962 ;
+				:overallMotivation "" .
+				:prize328 :hasNominee :226 .
+				:prize328 :hasNominee :227 .
+				
+:prize329 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1962 ;
+				:overallMotivation "" .
+				:prize329 :hasNominee :372 .
+				:prize329 :hasNominee :373 .
+				:prize329 :hasNominee :374 .
+				
+:prize330 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1962 ;
+				:overallMotivation "" .
+				:prize330 :hasNominee :634 .
+				
+:prize331 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1962 ;
+				:overallMotivation "" .
+				:prize331 :hasNominee :217 .
+				
+:prize332 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1961 ;
+				:overallMotivation "" .
+				:prize332 :hasNominee :75 .
+				:prize332 :hasNominee :76 .
+				
+:prize333 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1961 ;
+				:overallMotivation "" .
+				:prize333 :hasNominee :225 .
+				
+:prize334 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1961 ;
+				:overallMotivation "" .
+				:prize334 :hasNominee :371 .
+				
+:prize335 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1961 ;
+				:overallMotivation "" .
+				:prize335 :hasNominee :633 .
+				
+:prize336 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1961 ;
+				:overallMotivation "" .
+				:prize336 :hasNominee :520 .
+				
+:prize337 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1960 ;
+				:overallMotivation "" .
+				:prize337 :hasNominee :74 .
+				
+:prize338 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1960 ;
+				:overallMotivation "" .
+				:prize338 :hasNominee :224 .
+				
+:prize339 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1960 ;
+				:overallMotivation "" .
+				:prize339 :hasNominee :369 .
+				:prize339 :hasNominee :370 .
+				
+:prize340 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1960 ;
+				:overallMotivation "" .
+				:prize340 :hasNominee :631 .
+				
+:prize341 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1960 ;
+				:overallMotivation "" .
+				:prize341 :hasNominee :519 .
+				
+:prize342 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1959 ;
+				:overallMotivation "" .
+				:prize342 :hasNominee :72 .
+				:prize342 :hasNominee :73 .
+				
+:prize343 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1959 ;
+				:overallMotivation "" .
+				:prize343 :hasNominee :223 .
+				
+:prize344 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1959 ;
+				:overallMotivation "" .
+				:prize344 :hasNominee :367 .
+				:prize344 :hasNominee :368 .
+				
+:prize345 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1959 ;
+				:overallMotivation "" .
+				:prize345 :hasNominee :630 .
+				
+:prize346 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1959 ;
+				:overallMotivation "" .
+				:prize346 :hasNominee :518 .
+				
+:prize347 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1958 ;
+				:overallMotivation "" .
+				:prize347 :hasNominee :70 .
+				:prize347 :hasNominee :721 .
+				:prize347 :hasNominee :71 .
+				
+:prize348 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1958 ;
+				:overallMotivation "" .
+				:prize348 :hasNominee :222 .
+				
+:prize349 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1958 ;
+				:overallMotivation "" .
+				:prize349 :hasNominee :364 .
+				:prize349 :hasNominee :365 .
+				:prize349 :hasNominee :366 .
+				
+:prize350 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1958 ;
+				:overallMotivation "" .
+				:prize350 :hasNominee :629 .
+				
+:prize351 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1958 ;
+				:overallMotivation "" .
+				:prize351 :hasNominee :517 .
+				
+:prize352 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1957 ;
+				:overallMotivation "" .
+				:prize352 :hasNominee :68 .
+				:prize352 :hasNominee :69 .
+				
+:prize353 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1957 ;
+				:overallMotivation "" .
+				:prize353 :hasNominee :221 .
+				
+:prize354 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1957 ;
+				:overallMotivation "" .
+				:prize354 :hasNominee :363 .
+				
+:prize355 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1957 ;
+				:overallMotivation "" .
+				:prize355 :hasNominee :628 .
+				
+:prize356 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1957 ;
+				:overallMotivation "" .
+				:prize356 :hasNominee :516 .
+				
+:prize357 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1956 ;
+				:overallMotivation "" .
+				:prize357 :hasNominee :65 .
+				:prize357 :hasNominee :66 .
+				:prize357 :hasNominee :67 .
+				
+:prize358 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1956 ;
+				:overallMotivation "" .
+				:prize358 :hasNominee :219 .
+				:prize358 :hasNominee :220 .
+				
+:prize359 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1956 ;
+				:overallMotivation "" .
+				:prize359 :hasNominee :360 .
+				:prize359 :hasNominee :361 .
+				:prize359 :hasNominee :362 .
+				
+:prize360 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1956 ;
+				:overallMotivation "" .
+				:prize360 :hasNominee :627 .
+				
+:prize361 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1955 ;
+				:overallMotivation "" .
+				:prize361 :hasNominee :63 .
+				:prize361 :hasNominee :64 .
+				
+:prize362 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1955 ;
+				:overallMotivation "" .
+				:prize362 :hasNominee :218 .
+				
+:prize363 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1955 ;
+				:overallMotivation "" .
+				:prize363 :hasNominee :359 .
+				
+:prize364 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1955 ;
+				:overallMotivation "" .
+				:prize364 :hasNominee :626 .
+				
+:prize365 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1954 ;
+				:overallMotivation "" .
+				:prize365 :hasNominee :61 .
+				:prize365 :hasNominee :62 .
+				
+:prize366 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1954 ;
+				:overallMotivation "" .
+				:prize366 :hasNominee :217 .
+				
+:prize367 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1954 ;
+				:overallMotivation "" .
+				:prize367 :hasNominee :356 .
+				:prize367 :hasNominee :357 .
+				:prize367 :hasNominee :358 .
+				
+:prize368 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1954 ;
+				:overallMotivation "" .
+				:prize368 :hasNominee :625 .
+				
+:prize369 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1954 ;
+				:overallMotivation "" .
+				:prize369 :hasNominee :515 .
+				
+:prize370 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1953 ;
+				:overallMotivation "" .
+				:prize370 :hasNominee :60 .
+				
+:prize371 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1953 ;
+				:overallMotivation "" .
+				:prize371 :hasNominee :216 .
+				
+:prize372 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1953 ;
+				:overallMotivation "" .
+				:prize372 :hasNominee :354 .
+				:prize372 :hasNominee :355 .
+				
+:prize373 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1953 ;
+				:overallMotivation "" .
+				:prize373 :hasNominee :624 .
+				
+:prize374 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1953 ;
+				:overallMotivation "" .
+				:prize374 :hasNominee :514 .
+				
+:prize375 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1952 ;
+				:overallMotivation "" .
+				:prize375 :hasNominee :58 .
+				:prize375 :hasNominee :59 .
+				
+:prize376 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1952 ;
+				:overallMotivation "" .
+				:prize376 :hasNominee :214 .
+				:prize376 :hasNominee :215 .
+				
+:prize377 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1952 ;
+				:overallMotivation "" .
+				:prize377 :hasNominee :353 .
+				
+:prize378 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1952 ;
+				:overallMotivation "" .
+				:prize378 :hasNominee :623 .
+				
+:prize379 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1952 ;
+				:overallMotivation "" .
+				:prize379 :hasNominee :513 .
+				
+:prize380 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1951 ;
+				:overallMotivation "" .
+				:prize380 :hasNominee :56 .
+				:prize380 :hasNominee :57 .
+				
+:prize381 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1951 ;
+				:overallMotivation "" .
+				:prize381 :hasNominee :212 .
+				:prize381 :hasNominee :213 .
+				
+:prize382 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1951 ;
+				:overallMotivation "" .
+				:prize382 :hasNominee :352 .
+				
+:prize383 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1951 ;
+				:overallMotivation "" .
+				:prize383 :hasNominee :622 .
+				
+:prize384 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1951 ;
+				:overallMotivation "" .
+				:prize384 :hasNominee :512 .
+				
+:prize385 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1950 ;
+				:overallMotivation "" .
+				:prize385 :hasNominee :55 .
+				
+:prize386 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1950 ;
+				:overallMotivation "" .
+				:prize386 :hasNominee :210 .
+				:prize386 :hasNominee :211 .
+				
+:prize387 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1950 ;
+				:overallMotivation "" .
+				:prize387 :hasNominee :349 .
+				:prize387 :hasNominee :350 .
+				:prize387 :hasNominee :351 .
+				
+:prize388 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1950 ;
+				:overallMotivation "" .
+				:prize388 :hasNominee :621 .
+				
+:prize389 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1950 ;
+				:overallMotivation "" .
+				:prize389 :hasNominee :511 .
+				
+:prize390 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1949 ;
+				:overallMotivation "" .
+				:prize390 :hasNominee :54 .
+				
+:prize391 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1949 ;
+				:overallMotivation "" .
+				:prize391 :hasNominee :209 .
+				
+:prize392 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1949 ;
+				:overallMotivation "" .
+				:prize392 :hasNominee :347 .
+				:prize392 :hasNominee :348 .
+				
+:prize393 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1949 ;
+				:overallMotivation "" .
+				:prize393 :hasNominee :620 .
+				
+:prize394 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1949 ;
+				:overallMotivation "" .
+				:prize394 :hasNominee :510 .
+				
+:prize395 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1948 ;
+				:overallMotivation "" .
+				:prize395 :hasNominee :53 .
+				
+:prize396 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1948 ;
+				:overallMotivation "" .
+				:prize396 :hasNominee :208 .
+				
+:prize397 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1948 ;
+				:overallMotivation "" .
+				:prize397 :hasNominee :346 .
+				
+:prize398 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1948 ;
+				:overallMotivation "" .
+				:prize398 :hasNominee :619 .
+				
+:prize399 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1947 ;
+				:overallMotivation "" .
+				:prize399 :hasNominee :52 .
+				
+:prize400 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1947 ;
+				:overallMotivation "" .
+				:prize400 :hasNominee :207 .
+				
+:prize401 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1947 ;
+				:overallMotivation "" .
+				:prize401 :hasNominee :343 .
+				:prize401 :hasNominee :344 .
+				:prize401 :hasNominee :345 .
+				
+:prize402 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1947 ;
+				:overallMotivation "" .
+				:prize402 :hasNominee :618 .
+				
+:prize403 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1947 ;
+				:overallMotivation "" .
+				:prize403 :hasNominee :508 .
+				:prize403 :hasNominee :509 .
+				
+:prize404 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1946 ;
+				:overallMotivation "" .
+				:prize404 :hasNominee :51 .
+				
+:prize405 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1946 ;
+				:overallMotivation "" .
+				:prize405 :hasNominee :204 .
+				:prize405 :hasNominee :205 .
+				:prize405 :hasNominee :206 .
+				
+:prize406 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1946 ;
+				:overallMotivation "" .
+				:prize406 :hasNominee :342 .
+				
+:prize407 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1946 ;
+				:overallMotivation "" .
+				:prize407 :hasNominee :617 .
+				
+:prize408 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1946 ;
+				:overallMotivation "" .
+				:prize408 :hasNominee :506 .
+				:prize408 :hasNominee :507 .
+				
+:prize409 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1945 ;
+				:overallMotivation "" .
+				:prize409 :hasNominee :50 .
+				
+:prize410 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1945 ;
+				:overallMotivation "" .
+				:prize410 :hasNominee :203 .
+				
+:prize411 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1945 ;
+				:overallMotivation "" .
+				:prize411 :hasNominee :339 .
+				:prize411 :hasNominee :340 .
+				:prize411 :hasNominee :341 .
+				
+:prize412 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1945 ;
+				:overallMotivation "" .
+				:prize412 :hasNominee :615 .
+				
+:prize413 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1945 ;
+				:overallMotivation "" .
+				:prize413 :hasNominee :505 .
+				
+:prize414 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1944 ;
+				:overallMotivation "" .
+				:prize414 :hasNominee :49 .
+				
+:prize415 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1944 ;
+				:overallMotivation "" .
+				:prize415 :hasNominee :202 .
+				
+:prize416 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1944 ;
+				:overallMotivation "" .
+				:prize416 :hasNominee :337 .
+				:prize416 :hasNominee :338 .
+				
+:prize417 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1944 ;
+				:overallMotivation "" .
+				:prize417 :hasNominee :614 .
+				
+:prize418 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1944 ;
+				:overallMotivation "" .
+				:prize418 :hasNominee :482 .
+				
+:prize419 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1943 ;
+				:overallMotivation "" .
+				:prize419 :hasNominee :48 .
+				
+:prize420 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1943 ;
+				:overallMotivation "" .
+				:prize420 :hasNominee :201 .
+				
+:prize421 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1943 ;
+				:overallMotivation "" .
+				:prize421 :hasNominee :335 .
+				:prize421 :hasNominee :336 .
+				
+:prize422 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1939 ;
+				:overallMotivation "" .
+				:prize422 :hasNominee :47 .
+				
+:prize423 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1939 ;
+				:overallMotivation "" .
+				:prize423 :hasNominee :199 .
+				:prize423 :hasNominee :200 .
+				
+:prize424 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1939 ;
+				:overallMotivation "" .
+				:prize424 :hasNominee :334 .
+				
+:prize425 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1939 ;
+				:overallMotivation "" .
+				:prize425 :hasNominee :613 .
+				
+:prize426 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1938 ;
+				:overallMotivation "" .
+				:prize426 :hasNominee :46 .
+				
+:prize427 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1938 ;
+				:overallMotivation "" .
+				:prize427 :hasNominee :198 .
+				
+:prize428 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1938 ;
+				:overallMotivation "" .
+				:prize428 :hasNominee :333 .
+				
+:prize429 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1938 ;
+				:overallMotivation "" .
+				:prize429 :hasNominee :610 .
+				
+:prize430 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1938 ;
+				:overallMotivation "" .
+				:prize430 :hasNominee :503 .
+				
+:prize431 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1937 ;
+				:overallMotivation "" .
+				:prize431 :hasNominee :44 .
+				:prize431 :hasNominee :45 .
+				
+:prize432 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1937 ;
+				:overallMotivation "" .
+				:prize432 :hasNominee :196 .
+				:prize432 :hasNominee :197 .
+				
+:prize433 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1937 ;
+				:overallMotivation "" .
+				:prize433 :hasNominee :332 .
+				
+:prize434 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1937 ;
+				:overallMotivation "" .
+				:prize434 :hasNominee :609 .
+				
+:prize435 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1937 ;
+				:overallMotivation "" .
+				:prize435 :hasNominee :502 .
+				
+:prize436 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1936 ;
+				:overallMotivation "" .
+				:prize436 :hasNominee :42 .
+				:prize436 :hasNominee :43 .
+				
+:prize437 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1936 ;
+				:overallMotivation "" .
+				:prize437 :hasNominee :195 .
+				
+:prize438 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1936 ;
+				:overallMotivation "" .
+				:prize438 :hasNominee :330 .
+				:prize438 :hasNominee :331 .
+				
+:prize439 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1936 ;
+				:overallMotivation "" .
+				:prize439 :hasNominee :608 .
+				
+:prize440 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1936 ;
+				:overallMotivation "" .
+				:prize440 :hasNominee :501 .
+				
+:prize441 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1935 ;
+				:overallMotivation "" .
+				:prize441 :hasNominee :41 .
+				
+:prize442 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1935 ;
+				:overallMotivation "" .
+				:prize442 :hasNominee :193 .
+				:prize442 :hasNominee :194 .
+				
+:prize443 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1935 ;
+				:overallMotivation "" .
+				:prize443 :hasNominee :329 .
+				
+:prize444 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1935 ;
+				:overallMotivation "" .
+				:prize444 :hasNominee :500 .
+				
+:prize445 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1934 ;
+				:overallMotivation "" .
+				:prize445 :hasNominee :192 .
+				
+:prize446 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1934 ;
+				:overallMotivation "" .
+				:prize446 :hasNominee :326 .
+				:prize446 :hasNominee :327 .
+				:prize446 :hasNominee :328 .
+				
+:prize447 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1934 ;
+				:overallMotivation "" .
+				:prize447 :hasNominee :607 .
+				
+:prize448 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1934 ;
+				:overallMotivation "" .
+				:prize448 :hasNominee :499 .
+				
+:prize449 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1933 ;
+				:overallMotivation "" .
+				:prize449 :hasNominee :39 .
+				:prize449 :hasNominee :40 .
+				
+:prize450 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1933 ;
+				:overallMotivation "" .
+				:prize450 :hasNominee :325 .
+				
+:prize451 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1933 ;
+				:overallMotivation "" .
+				:prize451 :hasNominee :606 .
+				
+:prize452 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1933 ;
+				:overallMotivation "" .
+				:prize452 :hasNominee :498 .
+				
+:prize453 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1932 ;
+				:overallMotivation "" .
+				:prize453 :hasNominee :38 .
+				
+:prize454 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1932 ;
+				:overallMotivation "" .
+				:prize454 :hasNominee :191 .
+				
+:prize455 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1932 ;
+				:overallMotivation "" .
+				:prize455 :hasNominee :323 .
+				:prize455 :hasNominee :324 .
+				
+:prize456 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1932 ;
+				:overallMotivation "" .
+				:prize456 :hasNominee :605 .
+				
+:prize457 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1931 ;
+				:overallMotivation "" .
+				:prize457 :hasNominee :189 .
+				:prize457 :hasNominee :190 .
+				
+:prize458 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1931 ;
+				:overallMotivation "" .
+				:prize458 :hasNominee :322 .
+				
+:prize459 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1931 ;
+				:overallMotivation "" .
+				:prize459 :hasNominee :604 .
+				
+:prize460 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1931 ;
+				:overallMotivation "" .
+				:prize460 :hasNominee :496 .
+				:prize460 :hasNominee :497 .
+				
+:prize461 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1930 ;
+				:overallMotivation "" .
+				:prize461 :hasNominee :37 .
+				
+:prize462 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1930 ;
+				:overallMotivation "" .
+				:prize462 :hasNominee :188 .
+				
+:prize463 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1930 ;
+				:overallMotivation "" .
+				:prize463 :hasNominee :321 .
+				
+:prize464 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1930 ;
+				:overallMotivation "" .
+				:prize464 :hasNominee :603 .
+				
+:prize465 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1930 ;
+				:overallMotivation "" .
+				:prize465 :hasNominee :495 .
+				
+:prize466 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1929 ;
+				:overallMotivation "" .
+				:prize466 :hasNominee :36 .
+				
+:prize467 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1929 ;
+				:overallMotivation "" .
+				:prize467 :hasNominee :186 .
+				:prize467 :hasNominee :187 .
+				
+:prize468 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1929 ;
+				:overallMotivation "" .
+				:prize468 :hasNominee :319 .
+				:prize468 :hasNominee :320 .
+				
+:prize469 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1929 ;
+				:overallMotivation "" .
+				:prize469 :hasNominee :602 .
+				
+:prize470 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1929 ;
+				:overallMotivation "" .
+				:prize470 :hasNominee :494 .
+				
+:prize471 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1928 ;
+				:overallMotivation "" .
+				:prize471 :hasNominee :35 .
+				
+:prize472 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1928 ;
+				:overallMotivation "" .
+				:prize472 :hasNominee :185 .
+				
+:prize473 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1928 ;
+				:overallMotivation "" .
+				:prize473 :hasNominee :318 .
+				
+:prize474 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1928 ;
+				:overallMotivation "" .
+				:prize474 :hasNominee :601 .
+				
+:prize475 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1927 ;
+				:overallMotivation "" .
+				:prize475 :hasNominee :33 .
+				:prize475 :hasNominee :34 .
+				
+:prize476 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1927 ;
+				:overallMotivation "" .
+				:prize476 :hasNominee :184 .
+				
+:prize477 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1927 ;
+				:overallMotivation "" .
+				:prize477 :hasNominee :317 .
+				
+:prize478 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1927 ;
+				:overallMotivation "" .
+				:prize478 :hasNominee :600 .
+				
+:prize479 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1927 ;
+				:overallMotivation "" .
+				:prize479 :hasNominee :492 .
+				:prize479 :hasNominee :493 .
+				
+:prize480 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1926 ;
+				:overallMotivation "" .
+				:prize480 :hasNominee :32 .
+				
+:prize481 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1926 ;
+				:overallMotivation "" .
+				:prize481 :hasNominee :183 .
+				
+:prize482 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1926 ;
+				:overallMotivation "" .
+				:prize482 :hasNominee :316 .
+				
+:prize483 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1926 ;
+				:overallMotivation "" .
+				:prize483 :hasNominee :597 .
+				
+:prize484 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1926 ;
+				:overallMotivation "" .
+				:prize484 :hasNominee :490 .
+				:prize484 :hasNominee :491 .
+				
+:prize485 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1925 ;
+				:overallMotivation "" .
+				:prize485 :hasNominee :30 .
+				:prize485 :hasNominee :31 .
+				
+:prize486 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1925 ;
+				:overallMotivation "" .
+				:prize486 :hasNominee :182 .
+				
+:prize487 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1925 ;
+				:overallMotivation "" .
+				:prize487 :hasNominee :596 .
+				
+:prize488 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1925 ;
+				:overallMotivation "" .
+				:prize488 :hasNominee :488 .
+				:prize488 :hasNominee :489 .
+				
+:prize489 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1924 ;
+				:overallMotivation "" .
+				:prize489 :hasNominee :29 .
+				
+:prize490 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1924 ;
+				:overallMotivation "" .
+				:prize490 :hasNominee :315 .
+				
+:prize491 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1924 ;
+				:overallMotivation "" .
+				:prize491 :hasNominee :594 .
+				
+:prize492 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1923 ;
+				:overallMotivation "" .
+				:prize492 :hasNominee :28 .
+				
+:prize493 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1923 ;
+				:overallMotivation "" .
+				:prize493 :hasNominee :181 .
+				
+:prize494 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1923 ;
+				:overallMotivation "" .
+				:prize494 :hasNominee :313 .
+				:prize494 :hasNominee :314 .
+				
+:prize495 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1923 ;
+				:overallMotivation "" .
+				:prize495 :hasNominee :593 .
+				
+:prize496 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1922 ;
+				:overallMotivation "" .
+				:prize496 :hasNominee :27 .
+				
+:prize497 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1922 ;
+				:overallMotivation "" .
+				:prize497 :hasNominee :180 .
+				
+:prize498 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1922 ;
+				:overallMotivation "" .
+				:prize498 :hasNominee :311 .
+				:prize498 :hasNominee :312 .
+				
+:prize499 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1922 ;
+				:overallMotivation "" .
+				:prize499 :hasNominee :592 .
+				
+:prize500 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1922 ;
+				:overallMotivation "" .
+				:prize500 :hasNominee :487 .
+				
+:prize501 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1921 ;
+				:overallMotivation "" .
+				:prize501 :hasNominee :26 .
+				
+:prize502 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1921 ;
+				:overallMotivation "" .
+				:prize502 :hasNominee :179 .
+				
+:prize503 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1921 ;
+				:overallMotivation "" .
+				:prize503 :hasNominee :590 .
+				
+:prize504 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1921 ;
+				:overallMotivation "" .
+				:prize504 :hasNominee :485 .
+				:prize504 :hasNominee :486 .
+				
+:prize505 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1920 ;
+				:overallMotivation "" .
+				:prize505 :hasNominee :25 .
+				
+:prize506 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1920 ;
+				:overallMotivation "" .
+				:prize506 :hasNominee :178 .
+				
+:prize507 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1920 ;
+				:overallMotivation "" .
+				:prize507 :hasNominee :310 .
+				
+:prize508 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1920 ;
+				:overallMotivation "" .
+				:prize508 :hasNominee :589 .
+				
+:prize509 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1920 ;
+				:overallMotivation "" .
+				:prize509 :hasNominee :484 .
+				
+:prize510 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1919 ;
+				:overallMotivation "" .
+				:prize510 :hasNominee :24 .
+				
+:prize511 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1919 ;
+				:overallMotivation "" .
+				:prize511 :hasNominee :309 .
+				
+:prize512 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1919 ;
+				:overallMotivation "" .
+				:prize512 :hasNominee :588 .
+				
+:prize513 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1919 ;
+				:overallMotivation "" .
+				:prize513 :hasNominee :483 .
+				
+:prize514 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1918 ;
+				:overallMotivation "" .
+				:prize514 :hasNominee :23 .
+				
+:prize515 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1918 ;
+				:overallMotivation "" .
+				:prize515 :hasNominee :177 .
+				
+:prize516 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1917 ;
+				:overallMotivation "" .
+				:prize516 :hasNominee :22 .
+				
+:prize517 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1917 ;
+				:overallMotivation "" .
+				:prize517 :hasNominee :586 .
+				:prize517 :hasNominee :587 .
+				
+:prize518 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1917 ;
+				:overallMotivation "" .
+				:prize518 :hasNominee :482 .
+				
+:prize519 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1916 ;
+				:overallMotivation "" .
+				:prize519 :hasNominee :585 .
+				
+:prize520 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1915 ;
+				:overallMotivation "" .
+				:prize520 :hasNominee :20 .
+				:prize520 :hasNominee :21 .
+				
+:prize521 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1915 ;
+				:overallMotivation "" .
+				:prize521 :hasNominee :176 .
+				
+:prize522 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1915 ;
+				:overallMotivation "" .
+				:prize522 :hasNominee :584 .
+				
+:prize523 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1914 ;
+				:overallMotivation "" .
+				:prize523 :hasNominee :19 .
+				
+:prize524 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1914 ;
+				:overallMotivation "" .
+				:prize524 :hasNominee :175 .
+				
+:prize525 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1914 ;
+				:overallMotivation "" .
+				:prize525 :hasNominee :308 .
+				
+:prize526 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1913 ;
+				:overallMotivation "" .
+				:prize526 :hasNominee :18 .
+				
+:prize527 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1913 ;
+				:overallMotivation "" .
+				:prize527 :hasNominee :174 .
+				
+:prize528 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1913 ;
+				:overallMotivation "" .
+				:prize528 :hasNominee :307 .
+				
+:prize529 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1913 ;
+				:overallMotivation "" .
+				:prize529 :hasNominee :583 .
+				
+:prize530 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1913 ;
+				:overallMotivation "" .
+				:prize530 :hasNominee :481 .
+				
+:prize531 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1912 ;
+				:overallMotivation "" .
+				:prize531 :hasNominee :17 .
+				
+:prize532 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1912 ;
+				:overallMotivation "" .
+				:prize532 :hasNominee :172 .
+				:prize532 :hasNominee :173 .
+				
+:prize533 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1912 ;
+				:overallMotivation "" .
+				:prize533 :hasNominee :306 .
+				
+:prize534 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1912 ;
+				:overallMotivation "" .
+				:prize534 :hasNominee :582 .
+				
+:prize535 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1912 ;
+				:overallMotivation "" .
+				:prize535 :hasNominee :480 .
+				
+:prize536 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1911 ;
+				:overallMotivation "" .
+				:prize536 :hasNominee :16 .
+				
+:prize537 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1911 ;
+				:overallMotivation "" .
+				:prize537 :hasNominee :6 .
+				
+:prize538 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1911 ;
+				:overallMotivation "" .
+				:prize538 :hasNominee :305 .
+				
+:prize539 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1911 ;
+				:overallMotivation "" .
+				:prize539 :hasNominee :581 .
+				
+:prize540 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1911 ;
+				:overallMotivation "" .
+				:prize540 :hasNominee :478 .
+				:prize540 :hasNominee :479 .
+				
+:prize541 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1910 ;
+				:overallMotivation "" .
+				:prize541 :hasNominee :15 .
+				
+:prize542 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1910 ;
+				:overallMotivation "" .
+				:prize542 :hasNominee :169 .
+				
+:prize543 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1910 ;
+				:overallMotivation "" .
+				:prize543 :hasNominee :304 .
+				
+:prize544 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1910 ;
+				:overallMotivation "" .
+				:prize544 :hasNominee :580 .
+				
+:prize545 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1910 ;
+				:overallMotivation "" .
+				:prize545 :hasNominee :477 .
+				
+:prize546 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1909 ;
+				:overallMotivation "" .
+				:prize546 :hasNominee :13 .
+				:prize546 :hasNominee :14 .
+				
+:prize547 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1909 ;
+				:overallMotivation "" .
+				:prize547 :hasNominee :168 .
+				
+:prize548 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1909 ;
+				:overallMotivation "" .
+				:prize548 :hasNominee :303 .
+				
+:prize549 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1909 ;
+				:overallMotivation "" .
+				:prize549 :hasNominee :579 .
+				
+:prize550 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1909 ;
+				:overallMotivation "" .
+				:prize550 :hasNominee :475 .
+				:prize550 :hasNominee :476 .
+				
+:prize551 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1908 ;
+				:overallMotivation "" .
+				:prize551 :hasNominee :12 .
+				
+:prize552 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1908 ;
+				:overallMotivation "" .
+				:prize552 :hasNominee :167 .
+				
+:prize553 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1908 ;
+				:overallMotivation "" .
+				:prize553 :hasNominee :301 .
+				:prize553 :hasNominee :302 .
+				
+:prize554 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1908 ;
+				:overallMotivation "" .
+				:prize554 :hasNominee :578 .
+				
+:prize555 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1908 ;
+				:overallMotivation "" .
+				:prize555 :hasNominee :473 .
+				:prize555 :hasNominee :474 .
+				
+:prize556 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1907 ;
+				:overallMotivation "" .
+				:prize556 :hasNominee :11 .
+				
+:prize557 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1907 ;
+				:overallMotivation "" .
+				:prize557 :hasNominee :166 .
+				
+:prize558 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1907 ;
+				:overallMotivation "" .
+				:prize558 :hasNominee :300 .
+				
+:prize559 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1907 ;
+				:overallMotivation "" .
+				:prize559 :hasNominee :577 .
+				
+:prize560 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1907 ;
+				:overallMotivation "" .
+				:prize560 :hasNominee :471 .
+				:prize560 :hasNominee :472 .
+				
+:prize561 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1906 ;
+				:overallMotivation "" .
+				:prize561 :hasNominee :10 .
+				
+:prize562 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1906 ;
+				:overallMotivation "" .
+				:prize562 :hasNominee :165 .
+				
+:prize563 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1906 ;
+				:overallMotivation "" .
+				:prize563 :hasNominee :298 .
+				:prize563 :hasNominee :299 .
+				
+:prize564 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1906 ;
+				:overallMotivation "" .
+				:prize564 :hasNominee :576 .
+				
+:prize565 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1906 ;
+				:overallMotivation "" .
+				:prize565 :hasNominee :470 .
+				
+:prize566 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1905 ;
+				:overallMotivation "" .
+				:prize566 :hasNominee :9 .
+				
+:prize567 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1905 ;
+				:overallMotivation "" .
+				:prize567 :hasNominee :164 .
+				
+:prize568 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1905 ;
+				:overallMotivation "" .
+				:prize568 :hasNominee :297 .
+				
+:prize569 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1905 ;
+				:overallMotivation "" .
+				:prize569 :hasNominee :575 .
+				
+:prize570 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1905 ;
+				:overallMotivation "" .
+				:prize570 :hasNominee :468 .
+				
+:prize571 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1904 ;
+				:overallMotivation "" .
+				:prize571 :hasNominee :8 .
+				
+:prize572 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1904 ;
+				:overallMotivation "" .
+				:prize572 :hasNominee :163 .
+				
+:prize573 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1904 ;
+				:overallMotivation "" .
+				:prize573 :hasNominee :296 .
+				
+:prize574 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1904 ;
+				:overallMotivation "" .
+				:prize574 :hasNominee :573 .
+				:prize574 :hasNominee :574 .
+				
+:prize575 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1904 ;
+				:overallMotivation "" .
+				:prize575 :hasNominee :467 .
+				
+:prize576 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1903 ;
+				:overallMotivation "" .
+				:prize576 :hasNominee :4 .
+				:prize576 :hasNominee :5 .
+				:prize576 :hasNominee :6 .
+				
+:prize577 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1903 ;
+				:overallMotivation "" .
+				:prize577 :hasNominee :162 .
+				
+:prize578 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1903 ;
+				:overallMotivation "" .
+				:prize578 :hasNominee :295 .
+				
+:prize579 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1903 ;
+				:overallMotivation "" .
+				:prize579 :hasNominee :572 .
+				
+:prize580 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1903 ;
+				:overallMotivation "" .
+				:prize580 :hasNominee :466 .
+				
+:prize581 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1902 ;
+				:overallMotivation "" .
+				:prize581 :hasNominee :2 .
+				:prize581 :hasNominee :3 .
+				
+:prize582 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1902 ;
+				:overallMotivation "" .
+				:prize582 :hasNominee :161 .
+				
+:prize583 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1902 ;
+				:overallMotivation "" .
+				:prize583 :hasNominee :294 .
+				
+:prize584 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1902 ;
+				:overallMotivation "" .
+				:prize584 :hasNominee :571 .
+				
+:prize585 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1902 ;
+				:overallMotivation "" .
+				:prize585 :hasNominee :464 .
+				:prize585 :hasNominee :465 .
+				
+:prize586 rdf:type owl:NamedIndividual ,
+					:Physics ;
+				:year 1901 ;
+				:overallMotivation "" .
+				:prize586 :hasNominee :1 .
+				
+:prize587 rdf:type owl:NamedIndividual ,
+					:Chemistry ;
+				:year 1901 ;
+				:overallMotivation "" .
+				:prize587 :hasNominee :160 .
+				
+:prize588 rdf:type owl:NamedIndividual ,
+					:Medicine ;
+				:year 1901 ;
+				:overallMotivation "" .
+				:prize588 :hasNominee :293 .
+				
+:prize589 rdf:type owl:NamedIndividual ,
+					:Literature ;
+				:year 1901 ;
+				:overallMotivation "" .
+				:prize589 :hasNominee :569 .
+				
+:prize590 rdf:type owl:NamedIndividual ,
+					:Peace ;
+				:year 1901 ;
+				:overallMotivation "" .
+				:prize590 :hasNominee :462 .
+				:prize590 :hasNominee :463 .
+				
