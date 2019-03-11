@@ -1,0 +1,16 @@
+http://www4.di.uminho.pt/~jcr/AULAS/didac/RepFichas/site/fichas/PRC2016-aferi%C3%A7%C3%A3o.html
+
+Exercício Nº 4: Modelação de uma ontologia
+Utiliza o Protégé e a linguagem OWL DL para modelar o seguinte caso de estudo.
+
+Descrição do caso: O Turismo representa uma atividade cada vez mais importante para a cidade de Braga. Como parte do Braga Digital, o município está à procura de aplicações inovadoras que façam uso da conetividade WIFI, que vai sendo instalada, e dos telemóveis, cada vez mais inteligentes. Neste exercício vais especificar uma ontologia cujo domínio será o Turismo na cidade de Braga. Esta ontologia deverá incluir classes, "object properties", "data properties" e indivíduos (uma ontologia povoada). A ideia é que a comunidade bracarense possa classificar informação de acordo com a ontologia e torná-la acessível a outras aplicações que possam ser usadas em telemóveis.
+
+Segue os seguintes passos na construção da tua ontologia:
+
+Cria uma lista com as 10 a 20 atrações turísticas mais importantes em Braga e arredores. Esta lista deverá incluir instituições (museus, monumentos, etc), atividades e eventos (Semana Santa, Braga Romana, etc). Identifica a necessária infraestrutura de suporte aos turistas de visita a Braga: restaurantes, hoteis, transportes, etc;
+Cria uma hierarquia de classes e usa-a para classificares todas as instâncias que listaste na alínea anterior (tem atenção às propriedades das classes como a disjunção);
+Especifica as "data properties" de cada classe. Lembra-te de que as propriedades são herdades pelas subclasses e por isso devem ser especificadas no nível mais alto da hierarquia. Depois de as especificares, instancia-as para os indivíduos que deves ter criado associados à primeira alínea;
+Especifica as "object properties" ao nível da classe e usa-as para relacionares os indivíduos na tua ontologia. Usa cardinalidades quando necessário;
+Um passeio turístico inclui pelo menos três atrações, todas dentro duma distância que se pode percorrer a pé desde o centro de turismo. Especifica a classe "PasseioTuristico" na tua ontologia;
+Como podes definir tipos diferentes de turista na tua ontologia?
+Bracara Augusta, Cidade Romana ou Cidade Barroca são alguns dos sinónimos usamos muitas vezes para referenciar Braga. Como podes representar isto na tua ontologia?

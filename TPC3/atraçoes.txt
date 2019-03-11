@@ -1,0 +1,12 @@
+1. Sé de Braga -> Monumento
+2. Santuário do Bom Jesus do Monte -> Monumento
+3. Santuário do Sameiro -> Monumento
+4. Palácio do Raio -> Monumento
+5. Arco da Porta Nova -> PontoTuristico
+6. Jardins de Santa Bárbara -> PontoTuristico
+7. Praça da República -> PontoTuristico
+8. Museu dos Biscaínhos -> Museu
+9. Museu D. Diogo de Sousa -> Museu
+10. S.João de Braga -> Atividade -> Junho 
+11. Braga Romana -> Atividade -> Maio
+12. Noite Branca -> Atividade -> Setembro

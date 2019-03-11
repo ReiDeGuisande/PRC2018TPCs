@@ -1,0 +1,310 @@
+@prefix : <http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga> .
+
+<http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#percurso
+:percurso rdf:type owl:ObjectProperty ;
+          rdfs:domain :PasseioTuristico ;
+          rdfs:range :Atração .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#realizaPasseio
+:realizaPasseio rdf:type owl:ObjectProperty ;
+                rdfs:domain :Turista ;
+                rdfs:range :PasseioTuristico .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#temAlojamento
+:temAlojamento rdf:type owl:ObjectProperty ;
+               rdfs:domain :Cidade ;
+               rdfs:range :Alojamento .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#temAtração
+:temAtração rdf:type owl:ObjectProperty ;
+            rdfs:domain :Cidade ;
+            rdfs:range :Atração .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#temPosto
+:temPosto rdf:type owl:ObjectProperty ;
+          rdfs:domain :Cidade ;
+          rdfs:range :PostoTurismo .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#temRestaurante
+:temRestaurante rdf:type owl:ObjectProperty ;
+                rdfs:domain :Cidade ;
+                rdfs:range :Restaurante .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#temTransporte
+:temTransporte rdf:type owl:ObjectProperty ;
+               rdfs:domain :Cidade ;
+               rdfs:range :Transportes .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#temTurista
+:temTurista rdf:type owl:ObjectProperty ;
+            rdfs:domain :Cidade ;
+            rdfs:range :Turista .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#data
+:data rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Atividade ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#distancia
+:distancia rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Atração ;
+           rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#horario
+:horario rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Autocarro ;
+         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#localização
+:localização rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Alojamento ,
+                         :Atração ,
+                         :PostoTurismo ,
+                         :Restaurante ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#nacionalidade
+:nacionalidade rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Turista ;
+               rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#nome
+:nome rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Atração ,
+                  :Cidade ,
+                  :PostoTurismo ,
+                  :Turista ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#numero
+:numero rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Autocarro ;
+        rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#sinonimos
+:sinonimos rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Cidade ;
+           rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Alojamento
+:Alojamento rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Atividade
+:Atividade rdf:type owl:Class ;
+           rdfs:subClassOf :Atração .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Atração
+:Atração rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Autocarro
+:Autocarro rdf:type owl:Class ;
+           rdfs:subClassOf :Transportes .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Cidade
+:Cidade rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Hostel
+:Hostel rdf:type owl:Class ;
+        rdfs:subClassOf :Alojamento .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Hotel
+:Hotel rdf:type owl:Class ;
+       rdfs:subClassOf :Alojamento .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Monumento
+:Monumento rdf:type owl:Class ;
+           rdfs:subClassOf :Atração .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Museu
+:Museu rdf:type owl:Class ;
+       rdfs:subClassOf :Atração .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Outro
+:Outro rdf:type owl:Class ;
+       rdfs:subClassOf :Transportes .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#PasseioTuristico
+:PasseioTuristico rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#PontoTuristico
+:PontoTuristico rdf:type owl:Class ;
+                rdfs:subClassOf :Atração .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#PostoTurismo
+:PostoTurismo rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Pousada
+:Pousada rdf:type owl:Class ;
+         rdfs:subClassOf :Alojamento .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Restaurante
+:Restaurante rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Transportes
+:Transportes rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#Turista
+:Turista rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#a1
+:a1 rdf:type owl:NamedIndividual ,
+             :Monumento ;
+    :distancia "0.45 km" ;
+    :localização "R. Dom Paio Mendes, 4700-424 Braga" ;
+    :nome "Sé de Braga" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#a2
+:a2 rdf:type owl:NamedIndividual ,
+             :PontoTuristico ;
+    :distancia "0.55 km" ;
+    :localização "Rua Dom Diogo de Sousa, Norte, 4700-424 Braga" ;
+    :nome "Arco da Porta Nova" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#a3
+:a3 rdf:type owl:NamedIndividual ,
+             :Museu ;
+    :distancia "0.7 km" ;
+    :localização "R. dos Biscaínhos s/n, 4700-415 Braga" ;
+    :nome "Museu dos Biscaínhos" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#a4
+:a4 rdf:type owl:NamedIndividual ,
+             :Atividade ;
+    :data "24,25,26 de Maio" ;
+    :distancia "0 km" ;
+    :localização "Braga Centro" ;
+    :nome "Braga Romana" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#aut1
+:aut1 rdf:type owl:NamedIndividual ,
+               :Autocarro ;
+      :horario """Ponte de Prado: 9:15 10:45 
+Avenida da Liberdade (25 de Abril):  9:40
+Bom Jesus:  10:00
+Avenida Central II:  10:15""" ;
+      :numero 2 .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#bira
+:bira rdf:type owl:NamedIndividual ,
+               :Restaurante ;
+      :localização "R. Dom Gonçalo Pereira 85, 4700-032 Braga" ;
+      :nome "Bira dos Namorados" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#braga
+:braga rdf:type owl:NamedIndividual ,
+                :Cidade ;
+       :temAlojamento :mercure ;
+       :temAtração :a1 ,
+                   :a2 ,
+                   :a3 ,
+                   :a4 ;
+       :temPosto :posto1 ;
+       :temRestaurante :bira ;
+       :temTransporte :aut1 ;
+       :temTurista :conchita ,
+                   :zven ;
+       :nome "Braga" ;
+       :sinonimos "Cidade Barroca, Bracara Augusta, Cidade Romana" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#conchita
+:conchita rdf:type owl:NamedIndividual ,
+                   :Turista ;
+          :nacionalidade "Espanhola" ;
+          :nome "Conchita" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#mercure
+:mercure rdf:type owl:NamedIndividual ,
+                  :Hotel ;
+         :localização "Praceta João XXI, 4715-036 Braga" ;
+         :nome "Hotel Mercure" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#p1
+:p1 rdf:type owl:NamedIndividual ,
+             :PasseioTuristico ;
+    :percurso :a1 ,
+              :a2 ,
+              :a3 .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#posto1
+:posto1 rdf:type owl:NamedIndividual ,
+                 :PostoTurismo ;
+        :localização "Av. da Liberdade 1, 4710-249 Braga" ;
+        :nome "Posto de Turismo de Braga" .
+
+
+###  http://www.semanticweb.org/tiago/ontologies/2019/2/turismoBraga#zven
+:zven rdf:type owl:NamedIndividual ,
+               :Turista ;
+      :realizaPasseio :p1 ;
+      :nacionalidade "Dinamarquesa" ;
+      :nome "Zven" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
