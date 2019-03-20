@@ -1,0 +1,1 @@
+Acrescenta à ontologia o conceito de molécula com as propriedades suficientes para adicionares algumas instâncias como: água (H2O), dióxido de carbono (CO2), amoníaco (NH3), metano (C2H6), glicose (C6H12O6), ácido súlfúrico (H2SO4). Foca-te na sua constituição e considera o seu nome, ponto de fusão e ponto de ebulição.
