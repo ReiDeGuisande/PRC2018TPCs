@@ -1,0 +1,46 @@
+extends layout
+
+block content
+  .w3-container.w3-center
+    .w3-card-4.w3-center
+      header.w3-header.w3-light-grey
+        h1.w3-center 
+          b Results
+      .w3-container.w3-border.w3-responsive
+        h4.w3-text-dark-grey
+          b Query: 
+          b= query
+        br 
+        if length > 1
+          table.w3-center.w3-table-all
+            tr
+            each h in head
+              th.w3-center.w3-text-dark-grey= h
+            each i in resultados.results.bindings
+              tr
+                each h in head  
+                  td= i[h].value
+        else
+          .w3-container
+            .w3-row
+              .w3-col.m6.l3
+                h2.w3-text-dark-grey
+                  b Query: 
+                  b= query
+                |&nbsp;
+                |&nbsp;
+              .w3-col.m6.m4    
+                table.w3-table-all
+                  tr
+                  each h in head
+                    th.w3-center.w3-text-dark-grey= h
+                  each i in resultados.results.bindings
+                    tr
+                      each h in head
+                        td= i[h].value
+            br
+            p
+              a(href='/') 
+                  | Go Back 
+            footer.w3-container.w3-light-grey
+                address Gerado por WebApp
